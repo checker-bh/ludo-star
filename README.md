@@ -9,7 +9,7 @@ Ludo Star is a colorful game with a board of 40 squares. Players choose from fou
 | |
 **| 🚀 Playing Ludo Star 🚀 |**
 | |
-+-------------------------------------------+**
++-------------------------------------------+
 
 
 
